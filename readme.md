@@ -1,0 +1,17 @@
+文件
+mymain.py：运行的主函数
+myevolution.py：生成音乐
+evaluatesongfull.py：训练整首歌的LSTM神经网络
+evaluatesongzhuge.py：训练主歌的LSTM神经网络
+evaluatesongfuge.py：训练副歌的LSTM神经网络
+methodcompara.py：获取本方法与其他方法的相似度
+comparafig.py：用于画图
+midtowav.py：将mid文件转为wav文件
+MP3towav.py：将MP3文件转为wav文件
+txtconverfft.py：将txt文件转为频谱
+wavconverfft.py：将wav文件转为频谱
+文件夹
+figure：图片
+othermethod：其他方法的歌曲
+temp：生成的歌曲
+trainset：训练的歌曲
